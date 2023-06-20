@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorCellSea">#0099cc</color>
+    <color name="colorCellShip">#007ca6</color>
+    <color name="colorCellDamagedShip">#ffa033</color>
+    <color name="colorCellDestroyedShip">#006080</color>
+    <color name="colorCellMiss">#0086b3</color>
+    <color name="colorOutOfField">#004d66</color>
+    <color name="colorDarkText">#002633</color>
+    <color name="colorTextOutOfField">#00bfff</color>
+    <color name="colorCellOfShoot">#4cff00</color>
+</resources>

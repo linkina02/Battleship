@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="heightOfCells">24dp</dimen>
+    <dimen name="widthOfCells">24dp</dimen>
+    <dimen name="heightOfButtons">24dp</dimen>
+    <dimen name="marginTop">3dp</dimen>
+    <dimen name="marginBottom">3dp</dimen>
+    <dimen name="marginLeft">10dp</dimen>
+    <dimen name="marginRight">10dp</dimen>
+    <dimen name="marginOfCells">1dp</dimen>
+    <dimen name="marginVertical">5dp</dimen>
+    <dimen name="marginHorizontal">10dp</dimen>
+    <dimen name="textSizeOfCells">14sp</dimen>
+    <dimen name="askTextSize">12sp</dimen>
+</resources>
